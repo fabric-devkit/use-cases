@@ -8,4 +8,4 @@ Use any blockchain protocol to create your solution to fulfil the use cases ment
 
 | Reference | Name | Summary | Details |
 | --- | --- | --- | --- |
-| <a name="WWB-UC-1">WWB-UC-1</a> | Fox Private Limited security token | A fictional company call `Fox Private Limited (FPL)` issuing security tokens prior to its intial public offering of shares in its company. | [./fpl-security-token](./fpl-security-token) |
+| <a name="WWB-UC-1">WWB-UC-1</a> | Fox Private Limited security token | A fictional company call `Fox Private Limited (FPL)` issuing security tokens prior to its intial public offering of shares in its company. | [./fpl-security-token](./fpl-security-token/README.md) |
